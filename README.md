@@ -1,7 +1,7 @@
 # GPU-Accelerated LLM Inference Engine
 
 **Author:** Shiva Kumar Vanam
-**GitHub:** [VANAM-SHIVA-KUMAR](https://github.com/VANAM-SHIVA-KUMAR) | **LinkedIn:** [shiva-kumar-vanam](https://linkedin.com/in/shiva-kumar--vanam/) | **Portfolio:** [vanamshivakumar.vercel.app](https://vanamshivakumar.vercel.app)
+**GitHub:** [VANAM-SHIVA-KUMAR](https://github.com/VANAM-SHIVA-KUMAR) | **LinkedIn:** [shiva-kumar--vanam](https://linkedin.com/in/shiva-kumar--vanam/) | **Portfolio:** [vanam-shiva-kumar.github.io/Portfolio](https://vanam-shiva-kumar.github.io/Portfolio/)
 
 > *I'm Shiva Kumar Vanam — an AI/ML Engineer from Hyderabad, India. I build systems where AI actually ships to production — fast, efficient, and reliable. This project was built to understand and demonstrate every optimization layer that makes LLM inference viable in real-world deployments, from quantization to Flash Attention to containerized APIs.*
 
